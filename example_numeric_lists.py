@@ -262,16 +262,18 @@ doubled_scores = [x * 2 for x in new_scores]
 # Say "give me the square root of x (for each x in new_scores)"
 # and cast it to a list using square brackets
 sqrt_scores = [math.sqrt(x) for x in new_scores]
-
+print(sqrt_scores)
 # Map each element (radius) to its area
 # Say "give me pi r squared (for each r in radius_list)"
 # and cast it to a list using square brackets
 area_list = [math.pi * r * r for r in radius_list]
+print(area_list)
 
 # Map each element (radius) to its circumference
 # Say "give me 2 pi r (for each r in radius_list)"
 # and cast it to a list using square brackets
 circumference_list = [2 * math.pi * r for r in radius_list]
+print(circumference_list)
 
 # Mastering comprehesions is a key skill for data scientists
 numbers = [1, 2, 3, 4]

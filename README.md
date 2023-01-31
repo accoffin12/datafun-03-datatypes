@@ -3,14 +3,22 @@
 > Practice with Python data types, filter(), map(), and list comprehensions
 
 
-## Task 1 - Fork this Repo
+Coffin, Alexandra
+Mod 3
+Domain Formula 1
+Draft 1
 
-Fork this repo into your GitHub account.
+Assignment Constents:
+-"track_team_tuples.py"
+    Renamed for later use, same as "user_tuples_ect.py"
 
-## Task 2 - Clone Your Repo 
+-For "user_numeric_lists" see "track_km.py"
+    The code would have been enromous and required more time to run and debug, so I moved wrote it seperatly.
 
-Clone your new repo down to your machine.
+-"vocab_string_list1.py"
+    Renamed forlater use, same as "user_string_list.py"
 
-## Task 3 - Open the Project Locally
+    See "rivals_2023.txt" for article mined.
 
-Open the project in VS Code. 
+"Tracks_km.txt" and "fastest_lap_rec.text" added as references to store total data for lists and code.
+It's easier to keep track of the details this way.

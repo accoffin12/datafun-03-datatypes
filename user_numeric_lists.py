@@ -1,12 +1,15 @@
 """
-Modify this docstring.
+Alexandra Coffin
+2023/ 1/ 29
+Data Analytics Fundementals
+Mod 3 List
 
 """
 
 # import some modules first - how many can you make use of?
 
 import math
-
+import statistics
 
 # define some functions
 

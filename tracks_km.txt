@@ -1,0 +1,24 @@
+"""km per lap of Grand Prix 2023"""
+Bahrain = 5.412
+Jeddah = 6.17
+Melbourne = 5.27
+Baku = 6.003
+Miami = 5.412
+Imola = 4.909
+Monaco = 3.337
+Catalunya = 4.675
+Montreal = 4.361
+Spielberg = 4.318
+Silverstone = 5.891
+Budapest = 4.381
+Spa = 7.004
+Zandvoort = 4.259
+Monza = 5.793
+Singapore = 5.063
+Suzuka = 5.807
+Qatar = 5.38
+Austin = 5.513
+Mexico_City = 4.304
+Sao_Paulo = 4.309
+Las_vegas = 6.12
+Abu_Dhabi = 5.281

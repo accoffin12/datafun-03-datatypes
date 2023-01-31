@@ -1,0 +1,15 @@
+Year, total points, team 
+2009 = 172, Mercedes
+2010 = 498, Red Bull
+2011 = 650, Red Bull, Renault
+2012 = 460, Red Bull
+2013 = 596, Red Bull
+2014 = 701, Red Bull
+2015 = 703, Red Bull
+2016 = 765, Mercedes
+2017 = 688, Mercedes
+2018 = 655, Mercedes
+2019 = 739, Mercedes
+2020 = 573, Mercedes
+2021 = 613.5, Mercedes
+2022 = 759, Mercedes
